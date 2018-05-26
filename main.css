@@ -1,0 +1,130 @@
+
+body {
+    
+    background-color: aqua;
+}
+.navlistone {
+    list-style-type: none;
+    
+}
+
+.navlisttwo {
+   list-style-type: none;
+     
+}
+
+.navlistthree {
+   list-style-type: none; 
+    
+}
+ 
+
+img {
+    
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height:70px;
+    border-radius: 50%;
+    
+}
+
+img {
+    
+    position: relative ;
+    top:-40px;
+}
+
+
+
+
+.vl {
+    border-left: 40px solid green;
+    height: 25px;
+    left:100px;
+    position: relative;
+    top: -45px;
+    }
+.v2  {
+    border-left: 40px solid green;
+    height: 70px;
+    left:100px;
+    position: relative;
+    top: -90px;
+    }
+.v22 {
+    border-left: 40px solid darkblue;
+    height: 25px;
+    left:150px;
+    position: relative;
+    top: -115px;
+    }
+.v3  {
+    border-left: 40px solid green;
+    height: 70px;
+    left:100px;
+    position: relative;
+    top: -90px;
+    }
+.v33 {
+    border-left: 40px solid darkblue;
+    height: 25px;
+    left:150px;
+    position: relative;
+    top: -115px;
+    }
+
+.v4  {
+    border-left: 40px solid green;
+    height: 70px;
+    left:100px;
+    position: relative;
+    top: -90px;
+    }
+.v44 {
+    border-left: 40px solid darkblue;
+    height: 25px;
+    left:150px;
+    position: relative;
+    top: -115px;
+    }
+.v5  {
+    border-left: 40px solid green;
+    height: 70px;
+    left:100px;
+    position: relative;
+    top: -90px;
+    }
+.v55 {
+    border-left: 40px solid darkblue;
+    height: 25px;
+    left:150px;
+    position: relative;
+    top: -115px;
+    }
+.v6  {
+    border-left: 40px solid green;
+    height: 70px;
+    left:100px;
+    position: relative;
+    top: -90px;
+    }
+.v66 {
+    border-left: 40px solid darkblue;
+    height: 25px;
+    left:150px;
+    position: relative;
+    top: -115px;
+    }
+@media only screen and (max-width: 786px) {
+    body {
+        background-color: lightblue;
+    }
+    .row {
+        
+        float: left;
+    }
+    
+    
+}
+
